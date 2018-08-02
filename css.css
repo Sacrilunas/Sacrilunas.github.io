@@ -1,0 +1,25 @@
+body {
+ font-family: 'Roboto', sans-serif;
+ font-weight: 300;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+ font-family: 'Abril Fatface', serif;
+}
+
+p {
+    margin-right: 300px;
+    margin-left: 300px;
+}
+p {
+    font-size: 20px;
+}
+
+p {
+    text-indent: 50px;
+}
+
+html {
+  background-color: #f2f2f2	;
+}
