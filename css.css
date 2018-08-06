@@ -1,11 +1,22 @@
-body {
- font-family: 'Roboto', sans-serif;
- font-weight: 400;
 
+
+h2 {
+  word-spacing: 200px;
+  margin-right: 200px;
+  margin-left: 200px;
 }
 
-h1, h2, h3, h4, h5, h6 {
- font-family: 'Abril Fatface', serif;
+
+h3  {
+ font-family: 'Lobster', Georgia, Times, serif;
+ font-size: 70px;
+ line-height: 100px;
+}
+
+p, h2 {
+ font-family: 'Cabin', Helvetica, Arial, sans-serif;
+ font-size: 30px;
+ line-height: 25px;
 }
 
 p {
@@ -18,4 +29,19 @@ p {
 
 html {
   background-color: #f2f2f2	;
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:visited {
+    color: black;
+    text-decoration: none;
+}
+
+a:active {
+    color: black;
+    text-decoration: none;
 }
